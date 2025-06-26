@@ -279,6 +279,13 @@ export default function HomePage() {
               </div>
             </Card>
           </div>
+          <div className="text-center mt-8">
+            <Link href="/search">
+              <Button size="lg" className="px-8 py-6 text-lg">
+                Find Your Perfect Babysitter
+              </Button>
+            </Link>
+          </div>
         </div>
       </section>
 
